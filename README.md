@@ -53,9 +53,18 @@ El frontend estará disponible en http://localhost:5173.
 
 ## Capturas de Pantalla
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/947c1805-969d-45b7-9937-af053eb2bbec">
+
 <img width="361" alt="image" src="https://github.com/user-attachments/assets/0f98cf66-52d6-4a31-921b-69ed7fffbfeb">
+
 <img width="362" alt="image" src="https://github.com/user-attachments/assets/36fb6371-2fc4-4555-a5a9-6d671314aca7">
+
 <img width="360" alt="image" src="https://github.com/user-attachments/assets/8a80cfed-19c9-48dc-af63-e29b1c31a0ad">
+
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/ed75fa08-2a61-44e5-b0e6-d0590f57a821">
+
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/8caff233-3a9e-4db7-b039-44c36c19bb2c">
+
+
 
 
 
